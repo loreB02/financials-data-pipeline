@@ -4,6 +4,12 @@
 - The goal is to demonstrate the integrated application of **Python, SQL, and Power BI** to extract business insights from raw data.
 ---
 
+## 🔨 Tools used
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-FF7F0E?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+
 ## 🧩 Project Objectives
 
 - Clean and transform financial data using **Python (Pandas)**.
@@ -36,5 +42,8 @@ Visualizations were used to understand key relationships:
 - **Monthly Sales Trend by Year** (`sns.lineplot`)
 - **Average Profit by Segment** (`plt.bar`)
 ---
+
+## Source
+https://www.kaggle.com/datasets/atharvaarya25/financials
 
 
