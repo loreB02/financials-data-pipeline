@@ -44,7 +44,8 @@ The final Power BI report consists of three main pages:
 
 ---
 
-## ℹ️ Source
-https://www.kaggle.com/datasets/atharvaarya25/financials
+## ℹ️ Sources 
+- https://www.kaggle.com/datasets/atharvaarya25/financials
+- https://www.flaticon.com/
 
 
