@@ -1,3 +1,4 @@
+![Banner](./power_bi/dashboard1.png)
 # 📊 Financials Data Pipeline
 ## 📌 Project Overview
 This project aims to **clean and transform raw financial data** through a complete **ETL (Extract, Transform, Load)** process, followed by an **Exploratory Data Analysis (EDA)**.  
